@@ -5,3 +5,4 @@ The Question class:
   -if right: inform player they were correct
   -if wrong: inform player they were incorrect, life count is decremented.
 =end
+
