@@ -16,7 +16,6 @@ require './Game'
 require './Player'
 require './Question'
 
-# create players
-player1 = Player.new("Player 1")
-player2 = Player.new("Player 2")
+#Need to run the game class which will start everything.
+Game.new
 
